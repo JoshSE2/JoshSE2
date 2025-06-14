@@ -1,5 +1,5 @@
 <!-- GitHub Profile README -->
-![Banner](https://github.com/JoshSE2/JoshSE2/blob/main/Saidi-GitHub.pngraw=true)
+![Banner](https://github.com/JoshSE2/JoshSE2/blob/main/Saidi-GitHub.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Saidi Myekano</h1>
 <h3 align="center">A Passionate Rising Software Engineer</h3>
