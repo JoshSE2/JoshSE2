@@ -31,7 +31,8 @@
 ### 🚀 About Me
 I'm a Software Engineering student with a passion for building engaging and useful things on the web and beyond. I love turning ideas into reality through apps, websites, and creative tech solutions.
 Whether it's designing clean front-end interfaces or writing secure back-end logic, I enjoy every part of the development process.
-- 🌱 Always learning: **I'm flexible, curious, and always eager to explore new technologies, programming languages, and problem-solving techniques.**
+- 🌱 Always learning: **I'm flexible, curious, and always eager to explore new technologies and programming languages**
+- 🌱 I enjoy solving problems.
 - 📫 Reach me at: [smyekano99@gmail.com](mailto:smyekano99@gmail.com)
 
 ---
